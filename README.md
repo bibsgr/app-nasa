@@ -10,8 +10,8 @@ This mobile application allows you to explore captivating Astronomy Pictures of 
 
 ## Screenshots
 
-![Home](https://github.com/bibsgr/app-nasa/assets/130812620/cbb7efb2-09ac-4b58-96e2-36c543d51dee)
-![Detail](https://github.com/bibsgr/app-nasa/assets/130812620/7e8d9e37-9c8c-4bf7-bc0a-a0eab98bb779)
+![Home](https://github.com/bibsgr/app-nasa/assets/130812620/885b811f-635d-4163-a35b-6437c3ec204f)
+![Detail](https://github.com/bibsgr/app-nasa/assets/130812620/b5471a3c-81d9-4247-a88a-e68a11510df5)
 
 ## Installation
 
